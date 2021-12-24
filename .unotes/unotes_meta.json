@@ -18,7 +18,9 @@
       "name": "Notes",
       "isOrdered": true,
       "folders": {},
-      "files": {}
+      "files": {
+        "index": 0
+      }
     }
   },
   "files": {
